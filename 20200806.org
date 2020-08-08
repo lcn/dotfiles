@@ -1,0 +1,44 @@
+* donderdag, 06-08-20
+** 01:12 Must have applications :computer:
+Op [[https://itsfoss.com/essential-linux-applications/][Must Have Essential Applications for Desktop Linux Users]] staat een overzicht van de meest nuttige applikaties voor Linux gebruikers voor de desktop.
+
+What are the must have applications for Linux? The answer is subjective and it depends on what purposes you have for using desktop Linux. But there are still some essential Linux apps that are more likely to be used by most Linux users. Here we’ve listed the best Linux applications that you should have installed on every Linux distribution you use.
+** 01:14 How to list Systemd services :computer:
+[[https://linuxhandbook.com/systemd-list-services/][How to List Systemd Services in Linux]] systemd services are managed by the systemctl command. If you run systemctl without any arguments, it invokes the default list-units sub-command and it lists various types of systemd units like services, sockets, targets etc.
+** 01:16 Linux Handbook :computer:
+[[https://linuxhandbook.com/systemd-list-services/][The Linux Handbook]] is a collection of usefull articles about methods and tools for Linux.
+
+Linux Handbook is a web portal from the same team behind behind It’s FOSS, web’s favorite Linux and Open Source portal.
+
+While It’s FOSS focuses on Open Source, Linux news and desktop Linux, Linux Handbook focuses on the server side of Linux.
+
+At Linux Handbook, you’ll learn Linux command line in detail along with tutorials on cloud-related technologies, DevOps tools, managing servers and more such tips and tricks.
+** 01:19 Laser afstandmeter :golf:equipment:
+[[https://www.decathlon.nl/p/laserafstandsmeter-voor-golf-900/_/R-p-305651?mc=8546437&c=ZWART&irgwc=1&utm_source=impactradius&utm_medium=affiliation&utm_term=ONLINE_TRACKING_LINK&utm_campaign=provobis&utm_content=][Inesis Laser afstandmeter]] beschrijving van een relatief goedkope afstandmeter van Decathlon.
+*** Snel en nauwkeurig afstanden meten
+ Met de laserafstandsmeter 900 van Inesis kan je snel belangrijke afstanden meten op de golfbaan, naar keuze in meter of in yard. Om de afstand tot de vlag te kennen, om over een bunker te raken of de bal voor een dogleg te plaatsen ... de afstandsmeter is een ideaal hulpmiddel om steeds de juiste club te kiezen.
+
+** 14:30 Broekmaten
+[[https://www.adlermode.com/plussize/herren-hosenberater][DER ADLER HERREN HOSENBERATER FÜR GROSSE GRÖSSEN]]
+
+Bevat informatie over de verschillende heren broektypen en hoe de maat opgenomen zou kunnen worden.
+
+'Untersetzt' =U= geeft een broektype aan due _onder_ de buik gedragen wordt. De maten van deze broeken lopen van 28-40.
+** 15:25 Bake with Jake recepten
+[[https://www.bakewithjack.co.uk/blog-1/breakfastbread][Breakfast bread recipes]]
+
+Whatever kind of breakfast person you are, I believe there is a bread for you. Whether you are a black coffee and sweet treat person, or you like a cooked breakfast, bacon sandwich, scrambled eggs and smoked salmon, or tea and toast, I think that bread for breakfast in its many forms just fits like a perfect partnership.
+
+I love breakfast. And I’m not talking about grabbing a Belvita biscuit and takeaway coffee before you jump on a train, I mean breakfast as a leisurely experience, taking it slow and savouring the morning. And that’s exactly what making your own bread is, a leisurely experience. It’s a craft, it takes time to make and taking your time over a relaxing breakfast is a nice way to celebrate your triumph.
+
+Deze blog post bevat diverse recepten. O.a. English muffins, Fruit loaf en Overnight Porridge and Prune Bread.
+** 15:31 Sourdough Loaf for beginners
+[[https://www.bakewithjack.co.uk/blog-1/2018/7/5/sourdough-loaf-for-beginners][Bake with Jake - Sourdough loaf]]
+
+There are many, many ways to make a loaf of Sourdough bread. So many methods and techniques, so much conflicting advice online in blogs, books, videos, it's really quite overwhelming and put me off making sourdough for ages. Not to mention that most recipes I saw told me to throw away a portion of my starter on a regular basis!
+
+The truth is that with knowledge of the principle of yeasted bread making, and an understanding of how sourdough bread works, when you actually come to make a loaf you realise how simple it is and really how flexible the process is. In many ways it’s the trickiest bread to make and in many ways the simplest.
+
+Following on from a few sourdough videos I've made recently you guys have been requesting a recipe left, right and centre so here it is. This is the recipe I use week in week out, in the way I do it to fit in with my lifestyle. No waste, no discard. I use a 100% wholemeal rye starter, but you can use whichever you like or already have.
+
+Making sourdough is a real learning experience, expect your first one not to turn out perfect and you’ll learn something every time you try again. Keep it up!
